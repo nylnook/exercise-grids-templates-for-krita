@@ -7,7 +7,7 @@ License : CC-0 /public domain.
 Use them with Figure & Gesture Drawing websites to train your drawing skills, like 
 http://artists.pixelovely.com/ or http://www.posemaniacs.com/
 
-An explanation video by Matt Kohr (here)[http://www.ctrlpaint.com/videos/quick-pose-gesture-sketching]
+An explanation video by Matt Kohr [here](http://www.ctrlpaint.com/videos/quick-pose-gesture-sketching)
 
 
 ##Installation
